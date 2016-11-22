@@ -9,4 +9,4 @@ dependencies:
   - ipyleaflet
   - shapely
   - folium
-
+  - ckanapi
