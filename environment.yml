@@ -2,12 +2,13 @@ name: datagov
 dependencies:
   - python=3.5
   - pandas
-  - geopandas
   - matplotlib
   - numpy
   - requests
-  - ipyleaflet
   - shapely
-  - folium
-  - ckanapi
-  - aiohttp
+  - pip:
+    - geopandas
+    - ipyleaflet
+    - folium
+    - ckanapi
+    - aiohttp
