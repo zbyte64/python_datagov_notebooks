@@ -10,3 +10,4 @@ dependencies:
   - shapely
   - folium
   - ckanapi
+  - aiohttp

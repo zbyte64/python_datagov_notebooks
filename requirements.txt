@@ -6,3 +6,5 @@ requests
 ipyleaflet
 shapely
 folium
+ckanapi
+aiohttp
