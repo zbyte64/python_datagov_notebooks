@@ -8,4 +8,6 @@ To install jupyter please read the instructions at: http://jupyter.readthedocs.i
 
 Also you will need to `pip3 install -r requirements.txt`
 
-Also run `jupyter nbextension enable --py --sys-prefix widgetsnbextension` to avoid "Widget Javascript not detected.  It may not be installed properly. Did you enable the widgetsnbextension? If not, then run ..."
+Also run: `jupyter nbextension enable --py --sys-prefix widgetsnbextension` to avoid "Widget Javascript not detected.  It may not be installed properly. Did you enable the widgetsnbextension? If not, then run ..."
+
+Also run: `jupyter nbextension enable --py --sys-prefix ipyleaflet`
