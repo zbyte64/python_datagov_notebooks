@@ -1,6 +1,5 @@
 
-.. image:: http://mybinder.org/badge.svg 
-   :target: http://mybinder.org/repo/zbyte64/python_datagov_notebooks
+[<img src="http://mybinder.org/badge.svg">](http://mybinder.org/repo/zbyte64/python_datagov_notebooks)
 
 These example notebook files use `jupyter` and python 3. Use the badge above to run this notebook without installing anything.
 
