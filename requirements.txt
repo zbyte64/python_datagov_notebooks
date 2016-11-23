@@ -8,3 +8,4 @@ shapely
 folium
 ckanapi
 aiohttp
+scipy
