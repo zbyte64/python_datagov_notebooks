@@ -9,3 +9,4 @@ folium
 ckanapi
 aiohttp
 scipy
+pysal
