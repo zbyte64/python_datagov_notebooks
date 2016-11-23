@@ -6,6 +6,8 @@ dependencies:
   - numpy
   - requests
   - shapely
+  - scipy
+  - pysal
   - pip:
     - geopandas
     - ipyleaflet
